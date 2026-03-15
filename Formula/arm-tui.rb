@@ -2,7 +2,7 @@ class ArmTui < Formula
   desc "ARM v7 assembly step debugger with a GDB-style terminal UI"
   homepage "https://github.com/AlbertHuangT/Arm-TUI"
   url "https://github.com/AlbertHuangT/Arm-TUI/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "59e287f67b0780ab9128586a6ecb0f3e09c5f6d4d622dd7dc94a872155d781b3"
+  sha256 "eee13bed02890145381056ef6413a61335508a9de947d5dd30b5f77bfe77c8d0"
   license "MIT"
 
   depends_on "cmake" => :build
